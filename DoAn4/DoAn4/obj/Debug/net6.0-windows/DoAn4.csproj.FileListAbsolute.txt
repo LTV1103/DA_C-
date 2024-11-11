@@ -1,0 +1,32 @@
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.exe
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.deps.json
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.runtimeconfig.json
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.dll
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.pdb
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.Form1.resources
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.csproj.GenerateResource.cache
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.AssemblyInfoInputs.cache
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.AssemblyInfo.cs
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.csproj.CoreCompileInputs.cache
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.dll
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\refint\DoAn4.dll
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.pdb
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.genruntimeconfig.cache
+D:\Học Tập\Đồ án tin học\DoAn4\DoAn4\obj\Debug\net6.0-windows\ref\DoAn4.dll
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.exe
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.deps.json
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.runtimeconfig.json
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.dll
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\bin\Debug\net6.0-windows\DoAn4.pdb
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.Form1.resources
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.csproj.GenerateResource.cache
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.AssemblyInfoInputs.cache
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.AssemblyInfo.cs
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.csproj.CoreCompileInputs.cache
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.dll
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\refint\DoAn4.dll
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.pdb
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\DoAn4.genruntimeconfig.cache
+C:\Users\luong\OneDrive\Desktop\DoAn4\DoAn4\obj\Debug\net6.0-windows\ref\DoAn4.dll

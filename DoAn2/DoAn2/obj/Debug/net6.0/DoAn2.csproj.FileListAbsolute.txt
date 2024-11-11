@@ -1,0 +1,14 @@
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\bin\Debug\net6.0\DoAn2.exe
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\bin\Debug\net6.0\DoAn2.deps.json
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\bin\Debug\net6.0\DoAn2.runtimeconfig.json
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\bin\Debug\net6.0\DoAn2.dll
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\bin\Debug\net6.0\DoAn2.pdb
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.AssemblyInfoInputs.cache
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.AssemblyInfo.cs
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.csproj.CoreCompileInputs.cache
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.dll
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\refint\DoAn2.dll
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.pdb
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\DoAn2.genruntimeconfig.cache
+D:\Học Tập\Đồ án tin học\DoAn2\DoAn2\obj\Debug\net6.0\ref\DoAn2.dll

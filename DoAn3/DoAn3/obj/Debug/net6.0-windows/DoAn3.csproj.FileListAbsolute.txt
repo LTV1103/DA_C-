@@ -1,0 +1,16 @@
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\bin\Debug\net6.0-windows\DoAn3.exe
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\bin\Debug\net6.0-windows\DoAn3.deps.json
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\bin\Debug\net6.0-windows\DoAn3.runtimeconfig.json
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\bin\Debug\net6.0-windows\DoAn3.dll
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\bin\Debug\net6.0-windows\DoAn3.pdb
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.Form1.resources
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.csproj.GenerateResource.cache
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.AssemblyInfoInputs.cache
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.AssemblyInfo.cs
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.csproj.CoreCompileInputs.cache
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.dll
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\refint\DoAn3.dll
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.pdb
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\DoAn3.genruntimeconfig.cache
+D:\Học Tập\Đồ án tin học\DoAn3\DoAn3\obj\Debug\net6.0-windows\ref\DoAn3.dll
